@@ -6,11 +6,11 @@ I studied material engineering but, after realizing I don't like that career, I'
 
 I'm currently, since 2020, learning Java and its frameworks which is, actually, my main technology.
 
-I'm open to collaborations or jobs. If you think I could help, write to me at migpalser@protonmail.ch.
+I'm open to collaborations or jobs. If you think I could help (You can see my CV [here](https://migpalser.github.io/mycv/)), write to me at migpalser@protonmail.ch.
 
 Quick facts about me:
 
-Like: game design (the math-logic stuff, I don't mind if it's rpg, tabletop, vidya...), productivity, learning methods, history, entrepreneurship, philosophy and psychology (Taleb, Bastos...), my wife, cool Latin sentences, remote working from the country (programming near to the forest hearing the birds' songs)...
+Like: game design (the math-logic stuff, I don't mind if it's rpg, tabletop, vidya...), productivity, learning methods, history, entrepreneurship, psychology, philosophy (Taleb, Bastos...), my wife, cool Latin sentences, remote working from the country (programming near to the forest hearing the birds' songs)...
 
 Dislike: social media, news, resentful people, cities.
 
