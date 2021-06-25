@@ -6,7 +6,9 @@ I studied material engineering but, after realizing I don't like that career, I'
 
 I'm currently, since 2020, learning Java and its frameworks which is, actually, my main technology.
 
-I'm open to collaborations or jobs. If you think I could help (You can see my open CV [here](https://migpalser.github.io/mycv/)), write to me at migpalser@protonmail.ch.
+Actually working at Xeridia as software developer, due to an exclusivity contract term I, temporarily, stopped all my own developements until further notice. 
+
+You can see my open CV [here](https://migpalser.github.io/mycv/)), and write to me at migpalser@protonmail.ch.
 
 Quick facts about me:
 
