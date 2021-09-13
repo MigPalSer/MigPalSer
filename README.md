@@ -4,13 +4,13 @@ My name is Miguel, I am from Spain and born in 1992.
 
 I studied material engineering but, after realizing I don't like that career, I've taken the path to become a software engineer.
 
-I'm currently, since 2020, learning Java and its frameworks which is, actually, my main technology.
+I'm currently, since 2020, learning Java and its frameworks which is, actually, my main technology. I, also, write in python.
 
 Actually working at Xeridia as software developer, due to an exclusivity contract term I, temporarily, stopped all my own developements until further notice. 
 
 You can see my open CV [here](https://migpalser.github.io/mycv/)), and write to me at migpalser@protonmail.ch.
 
-Quick facts about me:
+Some quick facts about me:
 
 Like: game design (the math-logic stuff, I don't mind if it's rpg, tabletop, vidya...), productivity, learning methods, history, entrepreneurship, psychology, philosophy (Taleb, Bastos...), my wife, cool Latin sentences, remote working from the country (programming near to the forest hearing the birds' songs)...
 
