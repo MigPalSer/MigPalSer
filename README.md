@@ -6,15 +6,15 @@ I studied material engineering but, after realizing I don't like that career, I'
 
 I'm currently, since 2020, learning Java and its frameworks which is, actually, my main technology. I, also, write in python.
 
-Actually working at Xeridia as software developer, due to an exclusivity contract term I, temporarily, stopped all my own developements until further notice. 
+Actually working at GFT with automation, DevOps, QA and testing. 
 
 You can see my open CV [here](https://migpalser.github.io/mycv/)), and write to me at migpalser@protonmail.ch.
 
 Some quick facts about me:
 
-Like: game design (the math-logic stuff, I don't mind if it's rpg, tabletop, vidya...), productivity, learning methods, history, entrepreneurship, psychology, philosophy (Taleb, Bastos...), my wife, cool Latin sentences, remote working from the country (programming near to the forest hearing the birds' songs)...
+Like: game design (the math-logic stuff, I don't mind if it's rpg, tabletop, vidya...), productivity, learning methods, mental augmentation, history, entrepreneurship, psychology, philosophy, my wife, cool Latin sentences, remote working from the country (programming near to the forest hearing the birds' songs)...
 
-Dislike: social media, news, resentful people, cities.
+Dislike: social media, news, resentful people, cities, school system, visual basic 6, fake things (caffeine-free coffee, alcohol-free beer, vegetable "meat" and similar aberrations), cronies...
 
 <!--
 **MigPalSer/MigPalSer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
